@@ -1,7 +1,7 @@
 # cves
 TESTING CVE's
 
-Plugin: Meow Lightbox
+Plugin: Meow Lightbox < 5.2.9
 Affected Endpoint: /wp-json/meow-lightbox/v1/regenerate_mwl_data
 Severity: High (CVSS ~7.5)
 Access: Unauthenticated
