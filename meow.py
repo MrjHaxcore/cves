@@ -2,8 +2,8 @@ import requests
 import json
 
 # ========== CONFIG ==========
-TARGET = "http://localhost/wordpress"
-IMAGE_URL = "http://localhost/wordpress/wp-content/uploads/2025/06/beluga1.jpg"
+TARGET = "https://www.brikshyanepal.org.np"
+IMAGE_URL = "https://www.brikshyanepal.org.np/wp-content/uploads/2023/06/cropped-brikshya-nepal-final.png"
 # ============================
 
 ENDPOINT = f"{TARGET}/wp-json/meow-lightbox/v1/regenerate_mwl_data"
